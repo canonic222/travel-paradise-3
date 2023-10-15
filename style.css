@@ -1,0 +1,49 @@
+.header-font {
+    font-family: 'Oswald', sans-serif;
+}
+
+.heroes-font {
+    font-family: 'Lora', serif;
+}
+
+.image-heroes{
+    border-radius: 10%;
+}
+
+.gradient-background{
+    background: rgb(230,247,245);
+background: linear-gradient(90deg, rgba(230,247,245,1) 11%, rgba(227,248,248,1) 88%);
+}
+
+.icon-header {
+    margin-right: 5px;
+    border-radius: 50%;
+}
+
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: 0.75rem;
+
+}
+
+.bi {
+    vertical-align: -0.125em;
+    fill: currentColor;
+}
+
+.align-items-start {
+    align-items: flex-start!important;
+}
+.d-flex {
+    display: flex!important;
+}
+
+.px-3 {
+    padding-right: 1rem!important;
+    padding-left: 1rem!important;
+}
+
+.h1-about , .p-about{
+    text-align: center;
+}
